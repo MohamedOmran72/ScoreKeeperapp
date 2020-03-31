@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Score Keeper app</string>
+    <string name="goal">Goal</string>
+    <string name="foul">Foul</string>
+    <string name="fouls">Fouls</string>
+    <string name="reset">Reset</string>
+    <string name="goals">Goals</string>
+</resources>
